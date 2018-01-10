@@ -1,0 +1,1 @@
+from pruebaapp import app
