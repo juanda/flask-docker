@@ -30,9 +30,7 @@ con pip:
 A wheel package is created in ``dist`` directory which can be deployed
 in a virtualenv (or whatever) with ``pip``:
 
-.. code-block:: bash
-
-    pip install pruebaapp-0.1.0-py3-none-any.whl
+    # pip install pruebaapp-0.1.0-py3-none-any.whl
 
 Se definen la siguiente variable de entorno siguiente para que flask sepa
 donde tiene que cargar la configuración:
