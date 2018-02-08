@@ -3,9 +3,9 @@ from setuptools import setup
 setup(
     name='pruebaapp',
     packages=['pruebaapp'],
-    version='0.1.2',
+    version='0.1.0',
     author='Juan David Rodríguez García',
-    description='Backend for app project',
+    description='Basic Flask project (package)',
     license='MIT',
     author_email='juanda@juandarodriguez.es',
     include_package_data=True,

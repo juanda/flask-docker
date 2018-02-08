@@ -1,1 +1,1 @@
-from pruebaapp import app
+from pruebaapp.pruebaapp import app
