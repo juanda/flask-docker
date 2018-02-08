@@ -11,7 +11,8 @@ setup(
     include_package_data=True,
     install_requires=[
         'Flask',
-        'Redis'
+        'Redis',
+        'gunicorn'
     ],
     setup_requires=['pytest-runner'],
     tests_require=['pytest'],
